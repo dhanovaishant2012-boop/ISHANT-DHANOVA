@@ -56,6 +56,46 @@
         }
     </style>
 
+    <h3>Online Python Compiler</h3>
+
+<textarea id="code" rows="10" style="width:100%;">
+print("Hello Ishant!")
+</textarea>
+<br><br>
+
+<button onclick="runPython()">Run Code</button>
+
+<pre id="output" style="background:black;color:lime;padding:10px;"></pre>
+
+<script src="https://cdn.jsdelivr.net/pyodide/v0.25.1/full/pyodide.js"></script>
+
+<script>
+let pyodideReady = false;
+let pyodide;
+
+async function loadPyodideAndPackages() {
+    pyodide = await loadPyodide();
+    pyodideReady = true;
+}
+
+loadPyodideAndPackages();
+
+async function runPython() {
+    if (!pyodideReady) {
+        alert("Python is loading... please wait.");
+        return;
+    }
+
+    let code = document.getElementById("code").value;
+    try {
+        let result = await pyodide.runPythonAsync(code);
+        document.getElementById("output").textContent = result ?? "Code executed.";
+    } catch (err) {
+        document.getElementById("output").textContent = err;
+    }
+}
+</script>
+
 <body>
 
 <header>Welcome to My Website</header>
