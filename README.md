@@ -70,6 +70,14 @@
     <p>My goal is to become a software developer in the future 🚀</p>
 </div>
 
+<div class="card">
+    <h2>My School</h2>
+    <p>I study at <strong>Dewan Public School Hapur</strong>, a well‑known school in Hapur that focuses on excellent education and character development.</p>
+    <p>At Dewan Public School Hapur, students are encouraged to learn new things, take part in activities, and grow into confident individuals.</p>
+    <p>The school offers a balanced education with a strong emphasis on academics, sports, arts, and cultural activities.</p>
+    <p>I enjoy studying here because of the friendly teachers, supportive classmates, and many opportunities to learn and improve myself every day.</p>
+</div>
+
    <div class="card">
     <h2>My Hobbies</h2>
     <p>🎮 Gaming</p>
