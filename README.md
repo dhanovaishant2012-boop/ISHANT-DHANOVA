@@ -2,6 +2,13 @@
 <html>
 <head>
     <title>My Website</title>
+
+    <meta name="description" content="Ishant Dhanova personal website. Learning coding and building websites.">
+    <meta name="keywords" content="Ishant Dhanova, coding, HTML, Python, student developer">
+    <meta name="author" content="Ishant Dhanova">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
