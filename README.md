@@ -83,7 +83,7 @@
         <button onclick="alert('Thanks for visiting!')">Click Me</button>
     </div>
 
-    <img src="IMG-20260207-WA0000~3.jpg" width="150" style="border-radius:50%;">
+    <img src="photo.jpg" width="150" style="border-radius:50%;">
 
 </div>
 
