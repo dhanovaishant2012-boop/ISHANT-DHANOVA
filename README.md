@@ -62,25 +62,28 @@
 
 <div class="container">
 
-    <div class="card">
-        <h2>About Me</h2>
-        <p>Hello! My name is Ishant.</p>
-        <p>I am learning coding and building websites.</p>
-        <p>This website is hosted using GitHub Pages 🚀</p>
-    </div>
+<div class="card">
+    <h2>About Me</h2>
+    <p>Hi! My name is Ishant Dhanova.</p>
+    <p>I am a student and I love learning coding.</p>
+    <p>I enjoy building websites and learning Python.</p>
+    <p>My goal is to become a software developer in the future 🚀</p>
+</div>
 
-    <div class="card">
-        <h2>My Skills</h2>
-        <p>✔ HTML</p>
-        <p>✔ Python</p>
-        <p>✔ GitHub</p>
-    </div>
+   <div class="card">
+    <h2>My Hobbies</h2>
+    <p>🎮 Gaming</p>
+    <p>💻 Coding</p>
+    <p>📚 Learning new technology</p>
+</div> 
 
     <div class="card">
         <h2>Contact</h2>
         <p>Email: dhanovaishant2012@email.com</p>
         <button onclick="alert('Thanks for visiting!')">Click Me</button>
     </div>
+
+    <img src="IMG-20260207-WA0000~3.jpg" width="150" style="border-radius:50%;">
 
 </div>
 
