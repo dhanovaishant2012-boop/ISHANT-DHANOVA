@@ -71,7 +71,7 @@
 
     <div class="card">
         <h2>Contact</h2>
-        <p>Email: your@email.com</p>
+        <p>Email: dhanovaishant2012@email.com</p>
         <button onclick="alert('Thanks for visiting!')">Click Me</button>
     </div>
 
