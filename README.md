@@ -87,10 +87,12 @@
 
 <div class="card">
     <h2>Contact Me</h2>
-    <p>If you want to contact me, click the button below:</p>
+    <p>Click the Gmail icon to send me a message:</p>
 
-    <a href="mailto:dhanovaishant2012@gmail.com">
-        <button>Email Me</button>
+    <a href="mailto:dhanovaishant2012@gmail.com?subject=Message from My Website">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
+             width="80" 
+             style="cursor:pointer;">
     </a>
 </div>
 
