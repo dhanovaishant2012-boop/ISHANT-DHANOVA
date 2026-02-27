@@ -99,7 +99,7 @@
 <div class="card">
     <h2>My Favorite Video</h2>
 
-    <iframe width="560" height="315" 
+    <iframe width="500" height="255" 
         src="https://www.youtube.com/embed/XfFkz_ND5jg" 
         frameborder="0" 
         allowfullscreen>
