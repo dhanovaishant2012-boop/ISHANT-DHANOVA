@@ -55,7 +55,7 @@
             background-color: #3367D6;
         }
     </style>
-</head>
+
 <body>
 
 <header>Welcome to My Website</header>
