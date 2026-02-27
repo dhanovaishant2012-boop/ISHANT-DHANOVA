@@ -85,6 +85,15 @@
     <p>📚 Learning new technology</p>
 </div> 
 
+<div class="card">
+    <h2>Contact Me</h2>
+    <p>If you want to contact me, click the button below:</p>
+
+    <a href="mailto:dhanovaishant2012@gmail.com">
+        <button>Email Me</button>
+    </a>
+</div>
+
     <div class="card">
         <h2>Contact</h2>
         <p>Email: dhanovaishant2012@email.com</p>
